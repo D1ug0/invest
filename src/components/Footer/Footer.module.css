@@ -1,0 +1,89 @@
+.all {
+    margin-top: 300px;
+    margin-bottom: 10px;
+}
+
+.lineo {
+    height: 1px;
+    width: 100%;
+    background-color: #e8e8e8;
+}
+
+.linet {
+    margin-bottom: 20px;
+    height: 1px;
+    width: 100%;
+    background-color: #e8e8e8;
+}
+
+
+.blocks {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: grid;
+    grid-template-columns: 240px 240px 240px 320px 160px;
+    height: 133px;
+}
+
+.number {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+.email {
+    padding-top: 7px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.deffont {
+    font-family: Geometria, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 2.3;
+}
+
+.social {
+    color: #a0a0a0;
+    font-size: 14px;
+    line-height: 2;
+    font-weight: bold;
+}
+
+.social img {
+    width: 20px;
+}
+
+.visa img {
+    width: 100px;
+}
+
+.policy {
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.other {
+    display: flex;
+}
+
+.mobile {
+    cursor: pointer;
+    padding-top: 3px;
+    font-family: Geometria, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    word-spacing: 5px;
+    transition: all 0.3s ease;
+}
+
+.mobile:hover {
+    transition: all 0.3s ease;
+    color: #42f590;
+}
+
+.phone img {
+    width: 25px;
+}

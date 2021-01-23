@@ -1,0 +1,8 @@
+.idea_list_cards{
+    margin-bottom: 60px;
+    display: grid;
+    grid-template-areas:
+    "card card card";
+    grid-template-columns: 300px 300px 300px;
+    grid-gap: 30px;
+}
