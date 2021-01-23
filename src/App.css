@@ -1,36 +1,36 @@
 * {
-  font-family: Geometria;
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  background-color: #ffffff;
+    font-family: Geometria;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
 }
 
 .container {
-  position: relative;
-  min-height: 100vh;
+    position: relative;
+    min-height: 100vh;
 }
 
 .app-wrapper {
-  width: 1250px;
-  padding: 0 25px;
-  margin: 0 auto;
-  display: grid;
-  grid-template-areas:
+    width: 1250px;
+    padding: 0 25px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-areas:
   "h"
   "c";
 }
 
-.app-wrapper_content{
-  width: 960px;
-  position: relative;
-  margin: 0 auto;
-  margin-top: 100px;
-  /*border: 2px solid #c3c2c2;*/
-  /*height: 1500px;*/
+.app-wrapper_content {
+    width: 960px;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 100px;
+    /*border: 2px solid #c3c2c2;*/
+    /*height: 1500px;*/
 }
 
-button{
-  outline: none;
+button {
+    outline: none;
 }
 
